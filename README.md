@@ -1,5 +1,6 @@
 **Gossamr** lets you run your Go programs on Hadoop.
 
+[![GoDoc](https://godoc.org/github.com/vistarmedia/gossamr?status.svg)](https://godoc.org/github.com/vistarmedia/gossamr)
 
 ## Quick Example
 Oh, man. Illustrating MapReduce with a word count? Get out of town.
