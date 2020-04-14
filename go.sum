@@ -1,0 +1,17 @@
+github.com/markchadwick/assert v0.0.0-20130922001646-0c5f925a0c67 h1:QOq7KwwgMG9s0FQ9OcvIJEtT8YLhvWDWEl5Xl5S+bSI=
+github.com/markchadwick/assert v0.0.0-20130922001646-0c5f925a0c67/go.mod h1:zrl4fXWvmUNK1Cvj7TJsnz1v6Mw16tWqoSPh4jrxM6Q=
+github.com/markchadwick/sortedpairs v0.0.0-20131022193924-673bac59b046 h1:kvUjr1jK+uu3WwAhEqe437TxMH3t7OwkJ3Jpo1U4TTQ=
+github.com/markchadwick/sortedpairs v0.0.0-20131022193924-673bac59b046/go.mod h1:c1uKzamtLJJpdTWsnL30Cdwzx5CAGtCARML+FYnjXBM=
+github.com/markchadwick/spec v0.0.0-20170111152920-743340b6dc03 h1:IpB5FmH796JgYLyXtPrr/GxjAuBu1oG7sVMyf+8LepM=
+github.com/markchadwick/spec v0.0.0-20170111152920-743340b6dc03/go.mod h1:MUAg2znN1gK8kO1MSwZ13uNX61nbNYquQULtdHqU+PI=
+github.com/markchadwick/typedbytes v0.0.0-20131016230600-94293a733c99 h1:rKULmHFpnueM2I+OSTWgI4jXxd7wHo5BDzKVkR5MLgI=
+github.com/markchadwick/typedbytes v0.0.0-20131016230600-94293a733c99/go.mod h1:9Nm6rTV1+ctQ5ijeN33ZrIBzDeEgiBWoYeHoft67Ubw=
+github.com/mattn/go-colorable v0.1.6 h1:6Su7aK7lXmJ/U79bYtBjLNaha4Fs1Rg9plHpcH+vvnE=
+github.com/mattn/go-colorable v0.1.6/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
+github.com/mattn/go-isatty v0.0.12 h1:wuysRhFDzyxgEmMf5xjvJ2M9dZoWAXNNr5LSBS7uHXY=
+github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
+github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b h1:j7+1HpAFS1zy5+Q4qx1fWh90gTKwiN4QCGoY9TWyyO4=
+github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b/go.mod h1:01TrycV0kFyexm33Z7vhZRXopbI8J3TDReVlkTgMUxE=
+golang.org/x/sys v0.0.0-20200116001909-b77594299b42/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae h1:/WDfKMnPU+m5M4xB+6x4kaepxRw6jWvR5iDRdvjHgy8=
+golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
